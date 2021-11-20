@@ -10,4 +10,8 @@ https://jarvislin.com/tdd-clean-architecture-flutter-7-9/
 
 https://jarvislin.com/tdd-clean-architecture-flutter-10-12/
 
+
 https://www.youtube.com/watch?v=dc3B_mMrZ-Q
+
+
+https://resocoder.com/good-code-quiz/
