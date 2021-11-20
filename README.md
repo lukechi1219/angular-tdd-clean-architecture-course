@@ -10,8 +10,15 @@ https://jarvislin.com/tdd-clean-architecture-flutter-7-9/
 
 https://jarvislin.com/tdd-clean-architecture-flutter-10-12/
 
+.
 
 https://www.youtube.com/watch?v=dc3B_mMrZ-Q
 
+. 7 hrs video
 
 https://resocoder.com/good-code-quiz/
+
+. movie db
+
+https://flutterappworld.com/flutter-clean-architecture-tdd/
+
